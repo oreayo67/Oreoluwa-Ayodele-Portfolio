@@ -11,15 +11,20 @@
 
 # Work Experience
 # Data Analyst Intern @ CourseQR (March 2025 - October 2025)
-. Extracted raw datasets from various sources including Excel files, and web-based APIs for further
+* Extracted raw datasets from various sources including Excel files, and web-based APIs for further
 analysis.
-. Cleaned and preprocessed data using Excel functions and Power Bi by handling missing values,
+
+* Cleaned and preprocessed data using Excel functions and Power Bi by handling missing values,
 duplicates, and formatting inconsistencies.
-. Conducted exploratory data analysis (EDA) to understand patterns and spot outliers before model
+
+* Conducted exploratory data analysis (EDA) to understand patterns and spot outliers before model
 development or reporting.
-. Created interactive dashboards using Power BI to visualize key performance indicators (KPIs) and
+
+* Created interactive dashboards using Power BI to visualize key performance indicators (KPIs) and
 trends for business stakeholders.
-. Collaborated with team members to gather data requirements and present insights that informed
+
+* Collaborated with team members to gather data requirements and present insights that informed
 decision-making.
-. Documented all data transformation steps and ensured reproducibility and clarity in the analytics
-workflow
+
+* Documented all data transformation steps and ensured reproducibility and clarity in the analytics
+workflow.
