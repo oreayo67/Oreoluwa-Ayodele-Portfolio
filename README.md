@@ -26,6 +26,17 @@ trends for business stakeholders.
 * Collaborated with team members to gather data requirements and present insights that informed
 decision-making.
 
+## Table of Contents
+- [About](#about)
+- [Porfolio Projects](#projects)
+ • [Furniture Sales Dashboard Excel Project](https://1drv.ms/x/c/9d5fdd3caf44e30c/EX30YUx22tRGihJe9cZOlVwB2bClV8pQ1ZLOTeMTd_XnQw?e=be68aF)
+
+• [Restaurant Dataset Project Power Bi](
+
+- [Tools & Skills](#tools--skills)
+- [Contact](#contact)
+
+
 * Documented all data transformation steps and ensured reproducibility and clarity in the analytics
 workflow.
 
