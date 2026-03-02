@@ -28,3 +28,6 @@ decision-making.
 
 * Documented all data transformation steps and ensured reproducibility and clarity in the analytics
 workflow.
+
+
+# Projects
