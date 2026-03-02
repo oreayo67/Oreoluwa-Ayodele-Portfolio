@@ -32,7 +32,7 @@ decision-making.
 
  • [Furniture Sales Dashboard Excel Project](https://1drv.ms/x/c/9d5fdd3caf44e30c/EX30YUx22tRGihJe9cZOlVwB2bClV8pQ1ZLOTeMTd_XnQw?e=be68aF)
 
- • [Restaurant Dataset Project Power Bi](
+ • [Restaurant Dataset Project Power Bi]
 
 - [Tools & Skills](#tools--skills)
 - [Contact](#contact)
