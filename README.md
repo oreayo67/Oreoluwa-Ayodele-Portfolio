@@ -1,6 +1,6 @@
 # Data Analyst
 
-## ABOUT
+# ABOUT
 
 # A detail-oriented and logical Data Analyst with a strong foundation in data collection, cleaning, and
  visualization. Proficient in tools such as Excel, SQL, and Power BI, with hands-on experience in
