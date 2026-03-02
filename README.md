@@ -29,9 +29,10 @@ decision-making.
 ## Table of Contents
 - [About](#about)
 - [Porfolio Projects](#projects)
+
  • [Furniture Sales Dashboard Excel Project](https://1drv.ms/x/c/9d5fdd3caf44e30c/EX30YUx22tRGihJe9cZOlVwB2bClV8pQ1ZLOTeMTd_XnQw?e=be68aF)
 
-• [Restaurant Dataset Project Power Bi](
+ • [Restaurant Dataset Project Power Bi](
 
 - [Tools & Skills](#tools--skills)
 - [Contact](#contact)
@@ -69,10 +70,30 @@ The dashboard helps identify high-value products, improve inventory decisions, a
 
 
 # Tools & Skills
-• Excel – Data cleaning, analysis, and basic reporting 
-• SQL – Dashboard creation and visual reports 
-• Power BI – Querying, filtering, and extracting data  
-• Python – Data analysis with Pandas and NumPy
+# Data Analyst:
+* Data Cleaning and Preprocessing (Excel, SQL).
+* Data Extraction from Databases and External Sources.
+* Exploratory Data Analysis (EDA).
+* Dashboard Development and Data Visualization (Power BI).
+* Report Generation and Data Presentation.
+
+# Tools & Technology
+* Design: Power Bi, Excel.
+* Project Management: Trello, Notion.
+* Development Knowledge: Python, SQL, Google sheets, Power Query.
+
+# Language Skills
+* English: Proficient, Professional Level
+
+# Soft Skills
+* Communication and presentation skills.
+* Collaboration and teamwork.
+* Active listening and understanding stakeholder needs.
+* Organizational skills and workflow management.
+* Problem Solving.
+
+
+
 
 # Contact
 You can reach me here:
